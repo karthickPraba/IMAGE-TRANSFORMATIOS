@@ -20,8 +20,8 @@ Continue the program by implementing the codes of required topics.
 Thus the program is executed in google colab.
 ## Program:
 ```
-Developed By:Vasanthamukilan M
-Register Number:212222230167
+Developed By: KARTHICK P
+Register Number:212222100021
 ```
 ### i)Image Translation
 ```python
@@ -143,24 +143,33 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/e3614dcd-cae4-45d4-9ec2-2c30bc631d41)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/74d28a3c-67a9-415e-b344-33f5ff5c94b1)<br>
+![WhatsApp Image 2024-03-22 at 8 54 52 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/3a950c17-f34d-4ef9-a8de-e2198d3e8b1a)
+![WhatsApp Image 2024-03-22 at 8 55 16 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/47c7c16c-4860-4362-a658-061476080d7c)
+
+
 ### ii) Image Scaling
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/9a10e679-f3c7-4df4-acf9-8ba330f5f442)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/c1649edb-ccbc-495f-b490-aa038582d301)<br>
-### iii)Image shearing
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/c70fd227-96f4-429d-9c7d-1f26a58fa825)<br>
-<br> ![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/5743770b-89fb-497b-9737-f32ee748dbc1)<br>
+![WhatsApp Image 2024-03-22 at 8 58 04 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/7a0a5b1c-d2a1-4d0d-89ab-03bfdc0599bd)
+
+![WhatsApp Image 2024-03-22 at 8 58 17 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/7244e522-9bca-4508-94ea-f88f4aaf3139)
+
+### iii)Image sharing
+![WhatsApp Image 2024-03-22 at 8 59 10 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/3fd33cbd-1b38-45d9-a1e6-2da715c44b4d)
+
+![WhatsApp Image 2024-03-22 at 8 59 32 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/eb117dcf-a279-4037-bf89-5b496871703a)
+
 ### iv)Image Reflection
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/9494ad60-0cc9-4c80-b35b-1a0fb4a1a642)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/a35b86ba-2464-44ec-b22c-f8b5b58a8d41)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/a3fefe9c-4e00-4739-a53f-52b7b9e1d896)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/f67bdf89-630c-4fd1-8682-cbe21094b685)<br>
-### v)Image Rotation
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/f4dc04f3-c9f0-451f-9dd5-728c5f00ad85)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/d7fee572-ede4-4100-a295-0782c5d13eb1)<br>
+![WhatsApp Image 2024-03-22 at 9 02 50 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/2a0d1345-788d-41b2-ae87-f0e00241f362)
+![WhatsApp Image 2024-03-22 at 9 03 12 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/91d9d00d-6799-4175-a4ab-900db89f84d9)
+![WhatsApp Image 2024-03-22 at 9 03 05 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/e3fa1421-f341-4b55-8eef-f481d4e0cd2a)
+![WhatsApp Image 2024-03-22 at 9 02 58 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/c78465b4-0f9e-40d0-9a1a-897970740239)
+
+### v)Image rotation
+![WhatsApp Image 2024-03-22 at 9 03 59 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/176c4bd1-8dd3-4f99-a309-9386c3977fe6)
+
+
 ### vi)Image Cropping
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/c06100b0-4d91-45a1-b350-5dca1d2ff6de)<br>
-<br>![download](https://github.com/Vasanthamukilan/IMAGE-TRANSFORMATIONS/assets/119559694/1737b1eb-3b83-4c40-ad1d-9fd003c7ccd3)<br>
+![WhatsApp Image 2024-03-22 at 9 04 49 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/a74047a0-4c0c-446c-975f-1c43e8ccc140)
+![WhatsApp Image 2024-03-22 at 9 04 56 AM](https://github.com/karthiop6/IMAGE-TRANSFORMATIOS/assets/160331179/50f0a5f1-a858-4b64-bd9f-cb8d3321c707)
+
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
